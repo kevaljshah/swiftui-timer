@@ -21,5 +21,3 @@ I am an iOS Developer from Mumbai who loves to work with startups and companies 
 - The properties and logic of the timer comes from the `TimerViewModel`
 - The App sends a notification to the user when the timer is completed.
 
-## 💌 Get in touch
-- [Personal Email](keval.shah1411@gmail.com)
